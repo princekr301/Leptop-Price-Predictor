@@ -1,4 +1,4 @@
-# Leptop-Price-Predictor
+# Laptop-Price-Predictor
 # Work in Progress
 <h1 align="center">
  <img src="https://i.ytimg.com/vi/A1eU51jPpXQ/maxresdefault.jpg" />
